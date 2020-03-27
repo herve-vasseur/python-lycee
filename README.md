@@ -1,2 +1,2 @@
 # Continuite-Pedagogique
-dépôt de notebooks
+dépôt en ligne de notebooks consultables, modifiables puis téléchargeables
