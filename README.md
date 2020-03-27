@@ -1,2 +1,2 @@
-# Continuit-P-dagogique
+# Continuite-Pedagogique
 dépôt de notebooks
