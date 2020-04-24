@@ -4,6 +4,7 @@ Pillow==7.*
 matplotlib==3.*
 <<<<<<< HEAD
 scikit-learn==0.*
+scikit-learn==0.*
 =======
 scikit-learn==0.*
 >>>>>>> 235a743663eacb1af2502ebbef3301c2d53d7ac4
